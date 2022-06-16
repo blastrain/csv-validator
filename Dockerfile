@@ -1,4 +1,4 @@
-FROM java:8
+FROM openjdk:11-jdk-buster
 MAINTAINER Blastrain<tech@blastrain.co.jp>
 
 ENV JAVAPATH /java
