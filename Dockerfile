@@ -1,4 +1,4 @@
-FROM openjdk:11-jdk-bullseye
+FROM openjdk:11-jdk-buster
 MAINTAINER Blastrain<tech@blastrain.co.jp>
 
 ENV JAVAPATH /java
